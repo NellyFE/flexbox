@@ -7,7 +7,7 @@ export const Home = () => {
         <div className="w-full h-72  ">
           <img
             src="./src/assets/parfait.jpg"
-            alt=""
+            alt="img1"
             className="w-full h-full object-cover"
           />
         </div>
@@ -15,7 +15,7 @@ export const Home = () => {
         <div className="w-full h-72  ">
           <img
             src="./src/assets/parfait.jpg"
-            alt=""
+            alt="img2"
             className="w-full h-full object-cover"
           />
         </div>
@@ -23,7 +23,7 @@ export const Home = () => {
         <div className="w-full h-72  ">
           <img
             src="./src/assets/parfait.jpg"
-            alt=""
+            alt="img3"
             className="w-full h-full object-cover"
           />
         </div>
@@ -31,18 +31,18 @@ export const Home = () => {
         <div className="w-full h-72  ">
           <img
             src="./src/assets/parfait.jpg"
-            alt=""
+            alt="img4"
             className="w-full h-full object-cover"
           />
         </div>
       </div>
 
-{/* second container */}
+{/* main div 2 */}
 <div className="flex grow  items-stretch h-full">
   <div className="w-full h-full  ">
     <img
       src="./src/assets/parfait.jpg"
-      alt=""
+      alt="img5"
       className="w-full h-full object-cover"
     />
   </div>
